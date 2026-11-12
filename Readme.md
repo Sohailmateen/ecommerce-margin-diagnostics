@@ -73,7 +73,7 @@ Built across **PostgreSQL**, **Python (`pandas`, `SQLAlchemy`, `SciPy`, `statsmo
 * **Page 1: Executive Margin & Growth Scorecard**
   Tracks top-line GMV ($13.22M) against Net Contribution Margin ($4.90M / 37.08%), SLA Delay Rate (8.11%), regional delivery bottlenecks, and category-level profitability.
 
-![Executive Margin Scorecard](<docs\images\Executive Margin & Growth Scorecard.png>)
+![Executive Margin Scorecard](<docs/images/Executive Margin & Growth Scorecard.png>)
 
 * **Page 2: Root-Cause Leakage Diagnostics**
   Visualizes the statistical findings from Python: the review score cliff across SLA delay buckets, the 84.7% freight-to-price spike in sub-$25 orders, and a monthly cohort retention matrix.
@@ -83,7 +83,7 @@ Built across **PostgreSQL**, **Python (`pandas`, `SQLAlchemy`, `SciPy`, `statsmo
 * **Page 3: Strategic Profit Recovery Simulator**
   Dynamic waterfall bridge walking from Baseline Net Margin ($4.90M) through each operational lever to Projected Net Margin ($4.99M).
 
-![Profit Recovery Simulator](<docs\images\Strategic Action & Profit Recovery Simulator.png>)
+![Profit Recovery Simulator](<docs/images/Strategic Action & Profit Recovery Simulator.png>)
 
 ---
 
@@ -111,7 +111,6 @@ ecommerce-margin-diagnostics/
 ├── .env.example                    # Database environment variable template
 ├── requirements.txt                # Python dependencies
 └── README.md
-
 ```
 
 ---
