@@ -120,7 +120,7 @@ ecommerce-margin-diagnostics/
 ### 1. Clone the Repository & Install Dependencies
 
 ```bash
-git clone [https://github.com/](https://github.com/Sohailmateen/ecommerce-margin-diagnostics.git
+git clone https://github.com/Sohailmateen/ecommerce-margin-diagnostics.git
 cd ecommerce-margin-diagnostics
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
